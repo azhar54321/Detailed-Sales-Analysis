@@ -38,4 +38,9 @@ To create a high-impact, multi-page visual workspace that unifies key business K
 
 **Enhanced Decision-Making:** Consolidating high-level executive cards with detailed drill-down pages streamlines analysis from macro trends down to individual transactions.
 
-**Increased Engagement:** Clean visual layouts and interactive filtering encourage cross-functional teams to explore data proactively.
+**Increased Engagement:** Clean visual layouts and interactive filtering encourage cross-functional teams to explore data proactively. <br><br>
+
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/azhar54321/Detailed-Sales-Analysis/blob/main/page%201.png) <br><br>
+         ![Dashboard Preview](https://github.com/azhar54321/Detailed-Sales-Analysis/blob/main/page%202.png)
